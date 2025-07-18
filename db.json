@@ -1,264 +1,265 @@
 {
-  "trendingSkillsData":
-  {
-    "jobTitleData": {
-      "Software Engineer": {
-        "jobTitle": "Software Engineer",
-        "lastUpdated": "2025-07-17T10:00:00Z",
-        "totalCount": 4,
-        "skills": [
-          {
-            "skillId": "skill_python_001",
-            "name": "Python",
-            "description": "Python programming language",
-            "rank": 1,
-            "growthPercentage": 15.5,
-            "userCount": 1250,
-            "category": "Programming Languages",
-            "relatedJobTitles": ["Software Engineer", "Data Scientist", "ML Engineer"]
-          },
-          {
-            "skillId": "skill_react_002",
-            "name": "React",
-            "description": "React JavaScript library for building user interfaces",
-            "rank": 2,
-            "growthPercentage": 12.3,
-            "userCount": 980,
-            "category": "Web Development",
-            "relatedJobTitles": ["Frontend Engineer", "Full Stack Developer", "Software Engineer"]
-          },
-          {
-            "skillId": "skill_docker_003",
-            "name": "Docker",
-            "description": "Container platform for application deployment",
-            "rank": 3,
-            "growthPercentage": 18.7,
-            "userCount": 875,
-            "category": "DevOps",
-            "relatedJobTitles": ["DevOps Engineer", "Software Engineer", "Cloud Architect"]
-          },
-          {
-            "skillId": "skill_typescript_004",
-            "name": "TypeScript",
-            "description": "Typed superset of JavaScript",
-            "rank": 4,
-            "growthPercentage": 22.1,
-            "userCount": 820,
-            "category": "Programming Languages",
-            "relatedJobTitles": ["Frontend Engineer", "Full Stack Developer", "Software Engineer"]
-          }
-        ]
+  "trendingSkillsData": [
+    {
+      "jobTitleData": {
+        "Software Engineer": {
+          "jobTitle": "Software Engineer",
+          "lastUpdated": "2025-07-17T10:00:00Z",
+          "totalCount": 4,
+          "skills": [
+            {
+              "skillId": "skill_python_001",
+              "name": "Python",
+              "description": "Python programming language",
+              "rank": 1,
+              "growthPercentage": 15.5,
+              "userCount": 1250,
+              "category": "Programming Languages",
+              "relatedJobTitles": ["Software Engineer", "Data Scientist", "ML Engineer"]
+            },
+            {
+              "skillId": "skill_react_002",
+              "name": "React",
+              "description": "React JavaScript library for building user interfaces",
+              "rank": 2,
+              "growthPercentage": 12.3,
+              "userCount": 980,
+              "category": "Web Development",
+              "relatedJobTitles": ["Frontend Engineer", "Full Stack Developer", "Software Engineer"]
+            },
+            {
+              "skillId": "skill_docker_003",
+              "name": "Docker",
+              "description": "Container platform for application deployment",
+              "rank": 3,
+              "growthPercentage": 18.7,
+              "userCount": 875,
+              "category": "DevOps",
+              "relatedJobTitles": ["DevOps Engineer", "Software Engineer", "Cloud Architect"]
+            },
+            {
+              "skillId": "skill_typescript_004",
+              "name": "TypeScript",
+              "description": "Typed superset of JavaScript",
+              "rank": 4,
+              "growthPercentage": 22.1,
+              "userCount": 820,
+              "category": "Programming Languages",
+              "relatedJobTitles": ["Frontend Engineer", "Full Stack Developer", "Software Engineer"]
+            }
+          ]
+        },
+        "Data Scientist": {
+          "jobTitle": "Data Scientist",
+          "lastUpdated": "2025-07-17T10:00:00Z",
+          "totalCount": 4,
+          "skills": [
+            {
+              "skillId": "skill_python_001",
+              "name": "Python",
+              "description": "Python programming language",
+              "rank": 1,
+              "growthPercentage": 20.2,
+              "userCount": 890,
+              "category": "Programming Languages",
+              "relatedJobTitles": ["Data Scientist", "ML Engineer", "Software Engineer"]
+            },
+            {
+              "skillId": "skill_ml_006",
+              "name": "Machine Learning",
+              "description": "Machine learning algorithms and frameworks",
+              "rank": 2,
+              "growthPercentage": 35.8,
+              "userCount": 780,
+              "category": "AI/ML",
+              "relatedJobTitles": ["Data Scientist", "ML Engineer", "AI Researcher"]
+            },
+            {
+              "skillId": "skill_pandas_007",
+              "name": "Pandas",
+              "description": "Data manipulation and analysis library for Python",
+              "rank": 3,
+              "growthPercentage": 18.5,
+              "userCount": 650,
+              "category": "Data Analysis",
+              "relatedJobTitles": ["Data Scientist", "Data Analyst", "ML Engineer"]
+            },
+            {
+              "skillId": "skill_tensorflow_025",
+              "name": "TensorFlow",
+              "description": "Open-source machine learning framework",
+              "rank": 4,
+              "growthPercentage": 32.1,
+              "userCount": 580,
+              "category": "AI/ML",
+              "relatedJobTitles": ["Data Scientist", "ML Engineer", "AI Researcher"]
+            }
+          ]
+        },
+        "Product Manager": {
+          "jobTitle": "Product Manager",
+          "lastUpdated": "2025-07-17T10:00:00Z",
+          "totalCount": 5,
+          "skills": [
+            {
+              "skillId": "skill_agile_008",
+              "name": "Agile Methodologies",
+              "description": "Agile project management and development practices",
+              "rank": 1,
+              "growthPercentage": 12.4,
+              "userCount": 1200,
+              "category": "Methodology",
+              "relatedJobTitles": ["Product Manager", "Scrum Master", "Project Manager"]
+            },
+            {
+              "skillId": "skill_analytics_009",
+              "name": "Product Analytics",
+              "description": "Data analysis for product decision making",
+              "rank": 2,
+              "growthPercentage": 28.9,
+              "userCount": 890,
+              "category": "Analytics",
+              "relatedJobTitles": ["Product Manager", "Data Analyst", "Business Analyst"]
+            },
+            {
+              "skillId": "skill_roadmapping_034",
+              "name": "Product Roadmapping",
+              "description": "Strategic planning and prioritization of product features",
+              "rank": 3,
+              "growthPercentage": 22.1,
+              "userCount": 780,
+              "category": "Strategy",
+              "relatedJobTitles": ["Product Manager", "Product Owner", "Strategy Manager"]
+            },
+            {
+              "skillId": "skill_userresearch_035",
+              "name": "User Research",
+              "description": "Methods for understanding user needs and behaviors",
+              "rank": 4,
+              "growthPercentage": 31.5,
+              "userCount": 650,
+              "category": "Research",
+              "relatedJobTitles": ["Product Manager", "UX Researcher", "Design Researcher"]
+            },
+            {
+              "skillId": "skill_wireframing_036",
+              "name": "Wireframing & Prototyping",
+              "description": "Creating mockups and prototypes for product features",
+              "rank": 5,
+              "growthPercentage": 18.7,
+              "userCount": 580,
+              "category": "Design",
+              "relatedJobTitles": ["Product Manager", "UX Designer", "Product Designer"]
+            }
+          ]
+        }
       },
-      "Data Scientist": {
-        "jobTitle": "Data Scientist",
-        "lastUpdated": "2025-07-17T10:00:00Z",
-        "totalCount": 4,
-        "skills": [
-          {
-            "skillId": "skill_python_001",
-            "name": "Python",
-            "description": "Python programming language",
-            "rank": 1,
-            "growthPercentage": 20.2,
-            "userCount": 890,
-            "category": "Programming Languages",
-            "relatedJobTitles": ["Data Scientist", "ML Engineer", "Software Engineer"]
-          },
-          {
-            "skillId": "skill_ml_006",
-            "name": "Machine Learning",
-            "description": "Machine learning algorithms and frameworks",
-            "rank": 2,
-            "growthPercentage": 35.8,
-            "userCount": 780,
-            "category": "AI/ML",
-            "relatedJobTitles": ["Data Scientist", "ML Engineer", "AI Researcher"]
-          },
-          {
-            "skillId": "skill_pandas_007",
-            "name": "Pandas",
-            "description": "Data manipulation and analysis library for Python",
-            "rank": 3,
-            "growthPercentage": 18.5,
-            "userCount": 650,
-            "category": "Data Analysis",
-            "relatedJobTitles": ["Data Scientist", "Data Analyst", "ML Engineer"]
-          },
-          {
-            "skillId": "skill_tensorflow_025",
-            "name": "TensorFlow",
-            "description": "Open-source machine learning framework",
-            "rank": 4,
-            "growthPercentage": 32.1,
-            "userCount": 580,
-            "category": "AI/ML",
-            "relatedJobTitles": ["Data Scientist", "ML Engineer", "AI Researcher"]
-          }
-        ]
-      },
-      "Product Manager": {
-        "jobTitle": "Product Manager",
-        "lastUpdated": "2025-07-17T10:00:00Z",
-        "totalCount": 5,
-        "skills": [
-          {
-            "skillId": "skill_agile_008",
-            "name": "Agile Methodologies",
-            "description": "Agile project management and development practices",
-            "rank": 1,
-            "growthPercentage": 12.4,
-            "userCount": 1200,
-            "category": "Methodology",
-            "relatedJobTitles": ["Product Manager", "Scrum Master", "Project Manager"]
-          },
-          {
-            "skillId": "skill_analytics_009",
-            "name": "Product Analytics",
-            "description": "Data analysis for product decision making",
-            "rank": 2,
-            "growthPercentage": 28.9,
-            "userCount": 890,
-            "category": "Analytics",
-            "relatedJobTitles": ["Product Manager", "Data Analyst", "Business Analyst"]
-          },
-          {
-            "skillId": "skill_roadmapping_034",
-            "name": "Product Roadmapping",
-            "description": "Strategic planning and prioritization of product features",
-            "rank": 3,
-            "growthPercentage": 22.1,
-            "userCount": 780,
-            "category": "Strategy",
-            "relatedJobTitles": ["Product Manager", "Product Owner", "Strategy Manager"]
-          },
-          {
-            "skillId": "skill_userresearch_035",
-            "name": "User Research",
-            "description": "Methods for understanding user needs and behaviors",
-            "rank": 4,
-            "growthPercentage": 31.5,
-            "userCount": 650,
-            "category": "Research",
-            "relatedJobTitles": ["Product Manager", "UX Researcher", "Design Researcher"]
-          },
-          {
-            "skillId": "skill_wireframing_036",
-            "name": "Wireframing & Prototyping",
-            "description": "Creating mockups and prototypes for product features",
-            "rank": 5,
-            "growthPercentage": 18.7,
-            "userCount": 580,
-            "category": "Design",
-            "relatedJobTitles": ["Product Manager", "UX Designer", "Product Designer"]
-          }
-        ]
-      }
-    },
-    "tenantData": {
-      "microsoft-corp": {
-        "tenantId": "microsoft-corp",
-        "lastUpdated": "2025-07-17T10:00:00Z",
-        "totalCount": 4,
-        "skills": [
-          {
-            "skillId": "skill_cloud_010",
-            "name": "Cloud Computing",
-            "description": "Cloud computing platforms and services",
-            "rank": 1,
-            "growthPercentage": 28.7,
-            "userCount": 3450,
-            "category": "Cloud & Infrastructure",
-            "relatedJobTitles": ["Cloud Architect", "DevOps Engineer", "Software Engineer"]
-          },
-          {
-            "skillId": "skill_pm_011",
-            "name": "Project Management",
-            "description": "Project management methodologies and tools",
-            "rank": 2,
-            "growthPercentage": 12.1,
-            "userCount": 2890,
-            "category": "Management",
-            "relatedJobTitles": ["Project Manager", "Program Manager", "Scrum Master"]
-          },
-          {
-            "skillId": "skill_ai_012",
-            "name": "Artificial Intelligence",
-            "description": "AI and machine learning concepts",
-            "rank": 3,
-            "growthPercentage": 35.2,
-            "userCount": 2500,
-            "category": "AI/ML",
-            "relatedJobTitles": ["Data Scientist", "ML Engineer", "AI Researcher"]
-          },
-          {
-            "skillId": "skill_agile_008",
-            "name": "Agile Methodologies",
-            "description": "Agile project management and development practices",
-            "rank": 4,
-            "growthPercentage": 10.5,
-            "userCount": 2300,
-            "category": "Methodology",
-            "relatedJobTitles": ["Scrum Master", "Product Manager", "Software Engineer"]
-          }
-        ]
-      },
-      "contoso-ltd": {
-        "tenantId": "contoso-ltd",
-        "lastUpdated": "2025-07-17T10:00:00Z",
-        "totalCount": 5,
-        "skills": [
-          {
-            "skillId": "skill_leadership_013",
-            "name": "Leadership",
-            "description": "Leadership and management skills",
-            "rank": 1,
-            "growthPercentage": 22.3,
-            "userCount": 1800,
-            "category": "Management",
-            "relatedJobTitles": ["Manager", "Director", "Team Lead"]
-          },
-          {
-            "skillId": "skill_communication_014",
-            "name": "Communication",
-            "description": "Effective communication skills",
-            "rank": 2,
-            "growthPercentage": 15.7,
-            "userCount": 1650,
-            "category": "Soft Skills",
-            "relatedJobTitles": ["Manager", "Sales Representative", "Product Manager"]
-          },
-          {
-            "skillId": "skill_sales_015",
-            "name": "Sales",
-            "description": "Sales techniques and customer relationship management",
-            "rank": 3,
-            "growthPercentage": 15.3,
-            "userCount": 1200,
-            "category": "Sales",
-            "relatedJobTitles": ["Sales Representative", "Account Manager", "Sales Manager"]
-          },
-          {
-            "skillId": "skill_marketing_016",
-            "name": "Digital Marketing",
-            "description": "Digital marketing strategies and tools",
-            "rank": 4,
-            "growthPercentage": 22.8,
-            "userCount": 980,
-            "category": "Marketing",
-            "relatedJobTitles": ["Marketing Manager", "Digital Marketing Specialist", "Content Creator"]
-          },
-          {
-            "skillId": "skill_customer_service_057",
-            "name": "Customer Service",
-            "description": "Customer support and service excellence",
-            "rank": 5,
-            "growthPercentage": 18.4,
-            "userCount": 850,
-            "category": "Customer Service",
-            "relatedJobTitles": ["Customer Service Representative", "Support Specialist", "Account Manager"]
-          }
-        ]
+      "tenantData": {
+        "microsoft-corp": {
+          "tenantId": "microsoft-corp",
+          "lastUpdated": "2025-07-17T10:00:00Z",
+          "totalCount": 4,
+          "skills": [
+            {
+              "skillId": "skill_cloud_010",
+              "name": "Cloud Computing",
+              "description": "Cloud computing platforms and services",
+              "rank": 1,
+              "growthPercentage": 28.7,
+              "userCount": 3450,
+              "category": "Cloud & Infrastructure",
+              "relatedJobTitles": ["Cloud Architect", "DevOps Engineer", "Software Engineer"]
+            },
+            {
+              "skillId": "skill_pm_011",
+              "name": "Project Management",
+              "description": "Project management methodologies and tools",
+              "rank": 2,
+              "growthPercentage": 12.1,
+              "userCount": 2890,
+              "category": "Management",
+              "relatedJobTitles": ["Project Manager", "Program Manager", "Scrum Master"]
+            },
+            {
+              "skillId": "skill_ai_012",
+              "name": "Artificial Intelligence",
+              "description": "AI and machine learning concepts",
+              "rank": 3,
+              "growthPercentage": 35.2,
+              "userCount": 2500,
+              "category": "AI/ML",
+              "relatedJobTitles": ["Data Scientist", "ML Engineer", "AI Researcher"]
+            },
+            {
+              "skillId": "skill_agile_008",
+              "name": "Agile Methodologies",
+              "description": "Agile project management and development practices",
+              "rank": 4,
+              "growthPercentage": 10.5,
+              "userCount": 2300,
+              "category": "Methodology",
+              "relatedJobTitles": ["Scrum Master", "Product Manager", "Software Engineer"]
+            }
+          ]
+        },
+        "contoso-ltd": {
+          "tenantId": "contoso-ltd",
+          "lastUpdated": "2025-07-17T10:00:00Z",
+          "totalCount": 5,
+          "skills": [
+            {
+              "skillId": "skill_leadership_013",
+              "name": "Leadership",
+              "description": "Leadership and management skills",
+              "rank": 1,
+              "growthPercentage": 22.3,
+              "userCount": 1800,
+              "category": "Management",
+              "relatedJobTitles": ["Manager", "Director", "Team Lead"]
+            },
+            {
+              "skillId": "skill_communication_014",
+              "name": "Communication",
+              "description": "Effective communication skills",
+              "rank": 2,
+              "growthPercentage": 15.7,
+              "userCount": 1650,
+              "category": "Soft Skills",
+              "relatedJobTitles": ["Manager", "Sales Representative", "Product Manager"]
+            },
+            {
+              "skillId": "skill_sales_015",
+              "name": "Sales",
+              "description": "Sales techniques and customer relationship management",
+              "rank": 3,
+              "growthPercentage": 15.3,
+              "userCount": 1200,
+              "category": "Sales",
+              "relatedJobTitles": ["Sales Representative", "Account Manager", "Sales Manager"]
+            },
+            {
+              "skillId": "skill_marketing_016",
+              "name": "Digital Marketing",
+              "description": "Digital marketing strategies and tools",
+              "rank": 4,
+              "growthPercentage": 22.8,
+              "userCount": 980,
+              "category": "Marketing",
+              "relatedJobTitles": ["Marketing Manager", "Digital Marketing Specialist", "Content Creator"]
+            },
+            {
+              "skillId": "skill_customer_service_057",
+              "name": "Customer Service",
+              "description": "Customer support and service excellence",
+              "rank": 5,
+              "growthPercentage": 18.4,
+              "userCount": 850,
+              "category": "Customer Service",
+              "relatedJobTitles": ["Customer Service Representative", "Support Specialist", "Account Manager"]
+            }
+          ]
+        }
       }
     }
-  }
+  ]
 }
