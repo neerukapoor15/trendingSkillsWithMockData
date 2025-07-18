@@ -163,7 +163,7 @@
             {
               "skillId": "skill_cloud_010",
               "name": "Cloud Computing",
-              "description": "Cloud computing platforms and services",
+              "description": "Cloud computing platforms",
               "rank": 1,
               "growthPercentage": 28.7,
               "userCount": 3450,
@@ -178,7 +178,7 @@
               "growthPercentage": 12.1,
               "userCount": 2890,
               "category": "Management",
-              "relatedJobTitles": ["Project Manager", "Program Manager", "Scrum Master"]
+              "relatedJobTitles": ["Program Manager", "Scrum Master"]
             },
             {
               "skillId": "skill_ai_012",
@@ -205,7 +205,7 @@
         "contoso-ltd": {
           "tenantId": "contoso-ltd",
           "lastUpdated": "2025-07-17T10:00:00Z",
-          "totalCount": 5,
+          "totalCount": 4,
           "skills": [
             {
               "skillId": "skill_leadership_013",
@@ -235,7 +235,7 @@
               "growthPercentage": 15.3,
               "userCount": 1200,
               "category": "Sales",
-              "relatedJobTitles": ["Sales Representative", "Account Manager", "Sales Manager"]
+              "relatedJobTitles": ["Account Manager", "Sales Manager"]
             },
             {
               "skillId": "skill_marketing_016",
@@ -245,17 +245,7 @@
               "growthPercentage": 22.8,
               "userCount": 980,
               "category": "Marketing",
-              "relatedJobTitles": ["Marketing Manager", "Digital Marketing Specialist", "Content Creator"]
-            },
-            {
-              "skillId": "skill_customer_service_057",
-              "name": "Customer Service",
-              "description": "Customer support and service excellence",
-              "rank": 5,
-              "growthPercentage": 18.4,
-              "userCount": 850,
-              "category": "Customer Service",
-              "relatedJobTitles": ["Customer Service Representative", "Support Specialist", "Account Manager"]
+              "relatedJobTitles": ["Marketing Manager", "Content Creator"]
             }
           ]
         }
