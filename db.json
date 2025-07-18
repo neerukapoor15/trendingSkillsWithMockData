@@ -5,7 +5,7 @@
         "Software Engineer": {
           "jobTitle": "Software Engineer",
           "lastUpdated": "2025-07-17T10:00:00Z",
-          "totalCount": 4,
+          "totalCount": 3,
           "skills": [
             {
               "skillId": "skill_python_001",
@@ -36,23 +36,13 @@
               "userCount": 875,
               "category": "DevOps",
               "relatedJobTitles": ["DevOps Engineer", "Software Engineer", "Cloud Architect"]
-            },
-            {
-              "skillId": "skill_typescript_004",
-              "name": "TypeScript",
-              "description": "Typed superset of JavaScript",
-              "rank": 4,
-              "growthPercentage": 22.1,
-              "userCount": 820,
-              "category": "Programming Languages",
-              "relatedJobTitles": ["Frontend Engineer", "Full Stack Developer", "Software Engineer"]
             }
           ]
         },
         "Data Scientist": {
           "jobTitle": "Data Scientist",
           "lastUpdated": "2025-07-17T10:00:00Z",
-          "totalCount": 4,
+          "totalCount": 3,
           "skills": [
             {
               "skillId": "skill_python_001",
@@ -83,23 +73,13 @@
               "userCount": 650,
               "category": "Data Analysis",
               "relatedJobTitles": ["Data Scientist", "Data Analyst", "ML Engineer"]
-            },
-            {
-              "skillId": "skill_tensorflow_025",
-              "name": "TensorFlow",
-              "description": "Open-source machine learning framework",
-              "rank": 4,
-              "growthPercentage": 32.1,
-              "userCount": 580,
-              "category": "AI/ML",
-              "relatedJobTitles": ["Data Scientist", "ML Engineer", "AI Researcher"]
             }
           ]
         },
         "Product Manager": {
           "jobTitle": "Product Manager",
           "lastUpdated": "2025-07-17T10:00:00Z",
-          "totalCount": 5,
+          "totalCount": 4,
           "skills": [
             {
               "skillId": "skill_agile_008",
@@ -140,16 +120,6 @@
               "userCount": 650,
               "category": "Research",
               "relatedJobTitles": ["Product Manager", "UX Researcher", "Design Researcher"]
-            },
-            {
-              "skillId": "skill_wireframing_036",
-              "name": "Wireframing & Prototyping",
-              "description": "Creating mockups and prototypes for product features",
-              "rank": 5,
-              "growthPercentage": 18.7,
-              "userCount": 580,
-              "category": "Design",
-              "relatedJobTitles": ["Product Manager", "UX Designer", "Product Designer"]
             }
           ]
         }
@@ -158,7 +128,7 @@
         "microsoft-corp": {
           "tenantId": "microsoft-corp",
           "lastUpdated": "2025-07-17T10:00:00Z",
-          "totalCount": 4,
+          "totalCount": 3,
           "skills": [
             {
               "skillId": "skill_cloud_010",
@@ -189,23 +159,13 @@
               "userCount": 2500,
               "category": "AI/ML",
               "relatedJobTitles": ["Data Scientist", "ML Engineer", "AI Researcher"]
-            },
-            {
-              "skillId": "skill_agile_008",
-              "name": "Agile Methodologies",
-              "description": "Agile project management and development practices",
-              "rank": 4,
-              "growthPercentage": 10.5,
-              "userCount": 2300,
-              "category": "Methodology",
-              "relatedJobTitles": ["Scrum Master", "Product Manager", "Software Engineer"]
             }
           ]
         },
         "contoso-ltd": {
           "tenantId": "contoso-ltd",
           "lastUpdated": "2025-07-17T10:00:00Z",
-          "totalCount": 4,
+          "totalCount": 3,
           "skills": [
             {
               "skillId": "skill_leadership_013",
@@ -236,16 +196,6 @@
               "userCount": 1200,
               "category": "Sales",
               "relatedJobTitles": ["Account Manager", "Sales Manager"]
-            },
-            {
-              "skillId": "skill_marketing_016",
-              "name": "Digital Marketing",
-              "description": "Digital marketing strategies and tools",
-              "rank": 4,
-              "growthPercentage": 22.8,
-              "userCount": 980,
-              "category": "Marketing",
-              "relatedJobTitles": ["Marketing Manager", "Content Creator"]
             }
           ]
         }
