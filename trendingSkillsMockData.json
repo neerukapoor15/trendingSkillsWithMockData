@@ -1,0 +1,911 @@
+{
+  "jobTitleData": {
+    "Software Engineer": {
+      "jobTitle": "Software Engineer",
+      "lastUpdated": "2025-07-17T10:00:00Z",
+      "totalCount": 15,
+      "skills": [
+        {
+          "skillId": "skill_python_001",
+          "name": "Python",
+          "description": "Python programming language",
+          "rank": 1,
+          "growthPercentage": 15.5,
+          "userCount": 1250,
+          "category": "Programming Languages",
+          "relatedJobTitles": ["Software Engineer", "Data Scientist", "ML Engineer"]
+        },
+        {
+          "skillId": "skill_react_002",
+          "name": "React",
+          "description": "React JavaScript library for building user interfaces",
+          "rank": 2,
+          "growthPercentage": 12.3,
+          "userCount": 980,
+          "category": "Web Development",
+          "relatedJobTitles": ["Frontend Engineer", "Full Stack Developer", "Software Engineer"]
+        },
+        {
+          "skillId": "skill_docker_003",
+          "name": "Docker",
+          "description": "Container platform for application deployment",
+          "rank": 3,
+          "growthPercentage": 18.7,
+          "userCount": 875,
+          "category": "DevOps",
+          "relatedJobTitles": ["DevOps Engineer", "Software Engineer", "Cloud Architect"]
+        },
+        {
+          "skillId": "skill_typescript_004",
+          "name": "TypeScript",
+          "description": "Typed superset of JavaScript",
+          "rank": 4,
+          "growthPercentage": 22.1,
+          "userCount": 820,
+          "category": "Programming Languages",
+          "relatedJobTitles": ["Frontend Engineer", "Full Stack Developer", "Software Engineer"]
+        },
+        {
+          "skillId": "skill_kubernetes_005",
+          "name": "Kubernetes",
+          "description": "Container orchestration platform",
+          "rank": 5,
+          "growthPercentage": 25.3,
+          "userCount": 750,
+          "category": "Cloud & Infrastructure",
+          "relatedJobTitles": ["DevOps Engineer", "Cloud Architect", "Platform Engineer"]
+        },
+        {
+          "skillId": "skill_nodejs_015",
+          "name": "Node.js",
+          "description": "JavaScript runtime for server-side development",
+          "rank": 6,
+          "growthPercentage": 14.8,
+          "userCount": 720,
+          "category": "Backend Development",
+          "relatedJobTitles": ["Backend Engineer", "Full Stack Developer", "Software Engineer"]
+        },
+        {
+          "skillId": "skill_aws_016",
+          "name": "Amazon Web Services",
+          "description": "Cloud computing platform and services",
+          "rank": 7,
+          "growthPercentage": 31.2,
+          "userCount": 680,
+          "category": "Cloud & Infrastructure",
+          "relatedJobTitles": ["Cloud Engineer", "Software Engineer", "DevOps Engineer"]
+        },
+        {
+          "skillId": "skill_git_017",
+          "name": "Git",
+          "description": "Version control system for tracking changes",
+          "rank": 8,
+          "growthPercentage": 8.5,
+          "userCount": 1100,
+          "category": "Development Tools",
+          "relatedJobTitles": ["Software Engineer", "DevOps Engineer", "Data Engineer"]
+        },
+        {
+          "skillId": "skill_mongodb_018",
+          "name": "MongoDB",
+          "description": "NoSQL document database",
+          "rank": 9,
+          "growthPercentage": 19.4,
+          "userCount": 560,
+          "category": "Databases",
+          "relatedJobTitles": ["Backend Engineer", "Full Stack Developer", "Data Engineer"]
+        },
+        {
+          "skillId": "skill_graphql_019",
+          "name": "GraphQL",
+          "description": "Query language for APIs",
+          "rank": 10,
+          "growthPercentage": 28.7,
+          "userCount": 450,
+          "category": "API Development",
+          "relatedJobTitles": ["Backend Engineer", "Full Stack Developer", "Software Engineer"]
+        },
+        {
+          "skillId": "skill_redux_020",
+          "name": "Redux",
+          "description": "State management library for JavaScript applications",
+          "rank": 11,
+          "growthPercentage": 11.3,
+          "userCount": 420,
+          "category": "Web Development",
+          "relatedJobTitles": ["Frontend Engineer", "Full Stack Developer", "Software Engineer"]
+        },
+        {
+          "skillId": "skill_postgresql_021",
+          "name": "PostgreSQL",
+          "description": "Advanced open-source relational database",
+          "rank": 12,
+          "growthPercentage": 16.8,
+          "userCount": 580,
+          "category": "Databases",
+          "relatedJobTitles": ["Backend Engineer", "Data Engineer", "Software Engineer"]
+        },
+        {
+          "skillId": "skill_jenkins_022",
+          "name": "Jenkins",
+          "description": "Continuous integration and deployment tool",
+          "rank": 13,
+          "growthPercentage": 13.2,
+          "userCount": 390,
+          "category": "DevOps",
+          "relatedJobTitles": ["DevOps Engineer", "Software Engineer", "Platform Engineer"]
+        },
+        {
+          "skillId": "skill_terraform_023",
+          "name": "Terraform",
+          "description": "Infrastructure as code tool",
+          "rank": 14,
+          "growthPercentage": 35.6,
+          "userCount": 320,
+          "category": "DevOps",
+          "relatedJobTitles": ["DevOps Engineer", "Cloud Architect", "Platform Engineer"]
+        },
+        {
+          "skillId": "skill_microservices_024",
+          "name": "Microservices",
+          "description": "Architectural approach for building applications",
+          "rank": 15,
+          "growthPercentage": 26.4,
+          "userCount": 480,
+          "category": "Software Architecture",
+          "relatedJobTitles": ["Software Engineer", "Solution Architect", "Backend Engineer"]
+        }
+      ]
+    },
+    "Data Scientist": {
+      "jobTitle": "Data Scientist",
+      "lastUpdated": "2025-07-17T10:00:00Z",
+      "totalCount": 12,
+      "skills": [
+        {
+          "skillId": "skill_python_001",
+          "name": "Python",
+          "description": "Python programming language",
+          "rank": 1,
+          "growthPercentage": 20.2,
+          "userCount": 890,
+          "category": "Programming Languages",
+          "relatedJobTitles": ["Data Scientist", "ML Engineer", "Software Engineer"]
+        },
+        {
+          "skillId": "skill_ml_006",
+          "name": "Machine Learning",
+          "description": "Machine learning algorithms and frameworks",
+          "rank": 2,
+          "growthPercentage": 35.8,
+          "userCount": 780,
+          "category": "AI/ML",
+          "relatedJobTitles": ["Data Scientist", "ML Engineer", "AI Researcher"]
+        },
+        {
+          "skillId": "skill_pandas_007",
+          "name": "Pandas",
+          "description": "Data manipulation and analysis library for Python",
+          "rank": 3,
+          "growthPercentage": 18.5,
+          "userCount": 650,
+          "category": "Data Analysis",
+          "relatedJobTitles": ["Data Scientist", "Data Analyst", "ML Engineer"]
+        },
+        {
+          "skillId": "skill_tensorflow_025",
+          "name": "TensorFlow",
+          "description": "Open-source machine learning framework",
+          "rank": 4,
+          "growthPercentage": 32.1,
+          "userCount": 580,
+          "category": "AI/ML",
+          "relatedJobTitles": ["Data Scientist", "ML Engineer", "AI Researcher"]
+        },
+        {
+          "skillId": "skill_pytorch_026",
+          "name": "PyTorch",
+          "description": "Deep learning framework for research and production",
+          "rank": 5,
+          "growthPercentage": 41.3,
+          "userCount": 520,
+          "category": "AI/ML",
+          "relatedJobTitles": ["Data Scientist", "ML Engineer", "Research Scientist"]
+        },
+        {
+          "skillId": "skill_sql_027",
+          "name": "SQL",
+          "description": "Structured Query Language for database management",
+          "rank": 6,
+          "growthPercentage": 12.8,
+          "userCount": 1200,
+          "category": "Data Management",
+          "relatedJobTitles": ["Data Scientist", "Data Analyst", "Data Engineer"]
+        },
+        {
+          "skillId": "skill_jupyter_028",
+          "name": "Jupyter Notebooks",
+          "description": "Interactive computing environment for data science",
+          "rank": 7,
+          "growthPercentage": 16.4,
+          "userCount": 750,
+          "category": "Development Tools",
+          "relatedJobTitles": ["Data Scientist", "Research Scientist", "ML Engineer"]
+        },
+        {
+          "skillId": "skill_scipy_029",
+          "name": "SciPy",
+          "description": "Scientific computing library for Python",
+          "rank": 8,
+          "growthPercentage": 14.7,
+          "userCount": 480,
+          "category": "Data Analysis",
+          "relatedJobTitles": ["Data Scientist", "Research Scientist", "Quantitative Analyst"]
+        },
+        {
+          "skillId": "skill_matplotlib_030",
+          "name": "Matplotlib",
+          "description": "Data visualization library for Python",
+          "rank": 9,
+          "growthPercentage": 11.2,
+          "userCount": 620,
+          "category": "Data Visualization",
+          "relatedJobTitles": ["Data Scientist", "Data Analyst", "Research Scientist"]
+        },
+        {
+          "skillId": "skill_spark_031",
+          "name": "Apache Spark",
+          "description": "Unified analytics engine for large-scale data processing",
+          "rank": 10,
+          "growthPercentage": 28.9,
+          "userCount": 380,
+          "category": "Big Data",
+          "relatedJobTitles": ["Data Scientist", "Data Engineer", "Big Data Engineer"]
+        },
+        {
+          "skillId": "skill_tableau_032",
+          "name": "Tableau",
+          "description": "Data visualization and business intelligence platform",
+          "rank": 11,
+          "growthPercentage": 19.6,
+          "userCount": 450,
+          "category": "Data Visualization",
+          "relatedJobTitles": ["Data Scientist", "Data Analyst", "Business Analyst"]
+        },
+        {
+          "skillId": "skill_statistics_033",
+          "name": "Statistical Analysis",
+          "description": "Statistical methods and hypothesis testing",
+          "rank": 12,
+          "growthPercentage": 13.5,
+          "userCount": 720,
+          "category": "Statistics",
+          "relatedJobTitles": ["Data Scientist", "Statistician", "Research Scientist"]
+        }
+      ]
+    },
+    "Product Manager": {
+      "jobTitle": "Product Manager",
+      "lastUpdated": "2025-07-17T10:00:00Z",
+      "totalCount": 13,
+      "skills": [
+        {
+          "skillId": "skill_agile_008",
+          "name": "Agile Methodologies",
+          "description": "Agile project management and development practices",
+          "rank": 1,
+          "growthPercentage": 12.4,
+          "userCount": 1200,
+          "category": "Methodology",
+          "relatedJobTitles": ["Product Manager", "Scrum Master", "Project Manager"]
+        },
+        {
+          "skillId": "skill_analytics_009",
+          "name": "Product Analytics",
+          "description": "Data analysis for product decision making",
+          "rank": 2,
+          "growthPercentage": 28.9,
+          "userCount": 890,
+          "category": "Analytics",
+          "relatedJobTitles": ["Product Manager", "Data Analyst", "Business Analyst"]
+        },
+        {
+          "skillId": "skill_roadmapping_034",
+          "name": "Product Roadmapping",
+          "description": "Strategic planning and prioritization of product features",
+          "rank": 3,
+          "growthPercentage": 22.1,
+          "userCount": 780,
+          "category": "Strategy",
+          "relatedJobTitles": ["Product Manager", "Product Owner", "Strategy Manager"]
+        },
+        {
+          "skillId": "skill_userresearch_035",
+          "name": "User Research",
+          "description": "Methods for understanding user needs and behaviors",
+          "rank": 4,
+          "growthPercentage": 31.5,
+          "userCount": 650,
+          "category": "Research",
+          "relatedJobTitles": ["Product Manager", "UX Researcher", "Design Researcher"]
+        },
+        {
+          "skillId": "skill_wireframing_036",
+          "name": "Wireframing & Prototyping",
+          "description": "Creating mockups and prototypes for product features",
+          "rank": 5,
+          "growthPercentage": 18.7,
+          "userCount": 580,
+          "category": "Design",
+          "relatedJobTitles": ["Product Manager", "UX Designer", "Product Designer"]
+        },
+        {
+          "skillId": "skill_jira_037",
+          "name": "Jira",
+          "description": "Project management and issue tracking tool",
+          "rank": 6,
+          "growthPercentage": 15.3,
+          "userCount": 950,
+          "category": "Project Management",
+          "relatedJobTitles": ["Product Manager", "Scrum Master", "Project Manager"]
+        },
+        {
+          "skillId": "skill_stakeholder_038",
+          "name": "Stakeholder Management",
+          "description": "Managing relationships with internal and external stakeholders",
+          "rank": 7,
+          "growthPercentage": 19.8,
+          "userCount": 720,
+          "category": "Management",
+          "relatedJobTitles": ["Product Manager", "Program Manager", "Project Manager"]
+        },
+        {
+          "skillId": "skill_ab_testing_039",
+          "name": "A/B Testing",
+          "description": "Experimental design for product optimization",
+          "rank": 8,
+          "growthPercentage": 35.2,
+          "userCount": 420,
+          "category": "Experimentation",
+          "relatedJobTitles": ["Product Manager", "Growth Manager", "Data Analyst"]
+        },
+        {
+          "skillId": "skill_market_research_040",
+          "name": "Market Research",
+          "description": "Analyzing market trends and competitive landscape",
+          "rank": 9,
+          "growthPercentage": 24.6,
+          "userCount": 480,
+          "category": "Research",
+          "relatedJobTitles": ["Product Manager", "Market Analyst", "Business Analyst"]
+        },
+        {
+          "skillId": "skill_pricing_041",
+          "name": "Pricing Strategy",
+          "description": "Developing pricing models and strategies",
+          "rank": 10,
+          "growthPercentage": 27.3,
+          "userCount": 360,
+          "category": "Strategy",
+          "relatedJobTitles": ["Product Manager", "Pricing Analyst", "Business Manager"]
+        },
+        {
+          "skillId": "skill_sql_027",
+          "name": "SQL",
+          "description": "Structured Query Language for database management",
+          "rank": 11,
+          "growthPercentage": 33.1,
+          "userCount": 520,
+          "category": "Data Management",
+          "relatedJobTitles": ["Product Manager", "Data Analyst", "Business Analyst"]
+        },
+        {
+          "skillId": "skill_gtm_042",
+          "name": "Go-to-Market Strategy",
+          "description": "Planning and executing product launches",
+          "rank": 12,
+          "growthPercentage": 21.9,
+          "userCount": 380,
+          "category": "Strategy",
+          "relatedJobTitles": ["Product Manager", "Marketing Manager", "Business Manager"]
+        },
+        {
+          "skillId": "skill_kpi_043",
+          "name": "KPI Development",
+          "description": "Defining and tracking key performance indicators",
+          "rank": 13,
+          "growthPercentage": 17.4,
+          "userCount": 640,
+          "category": "Analytics",
+          "relatedJobTitles": ["Product Manager", "Business Analyst", "Data Analyst"]
+        }
+      ]
+    }
+  },
+  "tenantData": {
+    "microsoft-corp": {
+      "tenantId": "microsoft-corp",
+      "lastUpdated": "2025-07-17T10:00:00Z",
+      "totalCount": 25,
+      "skills": [
+        {
+          "skillId": "skill_cloud_010",
+          "name": "Cloud Computing",
+          "description": "Cloud computing platforms and services",
+          "rank": 1,
+          "growthPercentage": 28.7,
+          "userCount": 3450,
+          "category": "Cloud & Infrastructure",
+          "relatedJobTitles": ["Cloud Architect", "DevOps Engineer", "Software Engineer"]
+        },
+        {
+          "skillId": "skill_pm_011",
+          "name": "Project Management",
+          "description": "Project management methodologies and tools",
+          "rank": 2,
+          "growthPercentage": 12.1,
+          "userCount": 2890,
+          "category": "Management",
+          "relatedJobTitles": ["Project Manager", "Program Manager", "Scrum Master"]
+        },
+        {
+          "skillId": "skill_ai_012",
+          "name": "Artificial Intelligence",
+          "description": "AI and machine learning concepts",
+          "rank": 3,
+          "growthPercentage": 35.2,
+          "userCount": 2500,
+          "category": "AI/ML",
+          "relatedJobTitles": ["Data Scientist", "ML Engineer", "AI Researcher"]
+        },
+        {
+          "skillId": "skill_agile_008",
+          "name": "Agile Methodologies",
+          "description": "Agile project management and development practices",
+          "rank": 4,
+          "growthPercentage": 10.5,
+          "userCount": 2300,
+          "category": "Methodology",
+          "relatedJobTitles": ["Scrum Master", "Product Manager", "Software Engineer"]
+        },
+        {
+          "skillId": "skill_python_001",
+          "name": "Python",
+          "description": "Python programming language",
+          "rank": 5,
+          "growthPercentage": 18.9,
+          "userCount": 2150,
+          "category": "Programming Languages",
+          "relatedJobTitles": ["Data Scientist", "Software Engineer", "ML Engineer"]
+        },
+        {
+          "skillId": "skill_azure_044",
+          "name": "Microsoft Azure",
+          "description": "Microsoft cloud computing platform",
+          "rank": 6,
+          "growthPercentage": 42.3,
+          "userCount": 2080,
+          "category": "Cloud & Infrastructure",
+          "relatedJobTitles": ["Cloud Engineer", "DevOps Engineer", "Solution Architect"]
+        },
+        {
+          "skillId": "skill_leadership_013",
+          "name": "Leadership",
+          "description": "Leadership and management skills",
+          "rank": 7,
+          "growthPercentage": 16.8,
+          "userCount": 1950,
+          "category": "Management",
+          "relatedJobTitles": ["Manager", "Director", "Team Lead"]
+        },
+        {
+          "skillId": "skill_cybersecurity_045",
+          "name": "Cybersecurity",
+          "description": "Information security and threat protection",
+          "rank": 8,
+          "growthPercentage": 38.4,
+          "userCount": 1820,
+          "category": "Security",
+          "relatedJobTitles": ["Security Engineer", "Security Analyst", "CISO"]
+        },
+        {
+          "skillId": "skill_devops_046",
+          "name": "DevOps",
+          "description": "Development and operations integration practices",
+          "rank": 9,
+          "growthPercentage": 29.7,
+          "userCount": 1750,
+          "category": "DevOps",
+          "relatedJobTitles": ["DevOps Engineer", "Site Reliability Engineer", "Platform Engineer"]
+        },
+        {
+          "skillId": "skill_sql_027",
+          "name": "SQL",
+          "description": "Structured Query Language for database management",
+          "rank": 10,
+          "growthPercentage": 14.2,
+          "userCount": 1680,
+          "category": "Data Management",
+          "relatedJobTitles": ["Data Analyst", "Database Administrator", "Data Engineer"]
+        },
+        {
+          "skillId": "skill_powerbi_047",
+          "name": "Power BI",
+          "description": "Business intelligence and data visualization tool",
+          "rank": 11,
+          "growthPercentage": 31.5,
+          "userCount": 1580,
+          "category": "Data Visualization",
+          "relatedJobTitles": ["Business Analyst", "Data Analyst", "Report Developer"]
+        },
+        {
+          "skillId": "skill_dotnet_048",
+          "name": ".NET Framework",
+          "description": "Microsoft software development framework",
+          "rank": 12,
+          "growthPercentage": 15.9,
+          "userCount": 1520,
+          "category": "Programming Languages",
+          "relatedJobTitles": ["Software Engineer", "Backend Developer", "Full Stack Developer"]
+        },
+        {
+          "skillId": "skill_teams_049",
+          "name": "Microsoft Teams",
+          "description": "Collaboration and communication platform",
+          "rank": 13,
+          "growthPercentage": 45.6,
+          "userCount": 1480,
+          "category": "Collaboration",
+          "relatedJobTitles": ["Manager", "Project Manager", "Team Lead"]
+        },
+        {
+          "skillId": "skill_javascript_050",
+          "name": "JavaScript",
+          "description": "Programming language for web development",
+          "rank": 14,
+          "growthPercentage": 13.7,
+          "userCount": 1420,
+          "category": "Programming Languages",
+          "relatedJobTitles": ["Frontend Developer", "Full Stack Developer", "Web Developer"]
+        },
+        {
+          "skillId": "skill_sharepoint_051",
+          "name": "SharePoint",
+          "description": "Web-based collaboration and document management platform",
+          "rank": 15,
+          "growthPercentage": 22.3,
+          "userCount": 1380,
+          "category": "Collaboration",
+          "relatedJobTitles": ["Business Analyst", "SharePoint Administrator", "Content Manager"]
+        },
+        {
+          "skillId": "skill_office365_052",
+          "name": "Office 365",
+          "description": "Microsoft productivity suite",
+          "rank": 16,
+          "growthPercentage": 19.1,
+          "userCount": 1320,
+          "category": "Productivity",
+          "relatedJobTitles": ["Business Analyst", "Administrative Assistant", "Manager"]
+        },
+        {
+          "skillId": "skill_docker_003",
+          "name": "Docker",
+          "description": "Container platform for application deployment",
+          "rank": 17,
+          "growthPercentage": 27.8,
+          "userCount": 1280,
+          "category": "DevOps",
+          "relatedJobTitles": ["DevOps Engineer", "Software Engineer", "Cloud Architect"]
+        },
+        {
+          "skillId": "skill_git_017",
+          "name": "Git",
+          "description": "Version control system for tracking changes",
+          "rank": 18,
+          "growthPercentage": 11.4,
+          "userCount": 1250,
+          "category": "Development Tools",
+          "relatedJobTitles": ["Software Engineer", "DevOps Engineer", "Data Engineer"]
+        },
+        {
+          "skillId": "skill_excel_053",
+          "name": "Microsoft Excel",
+          "description": "Spreadsheet application for data analysis",
+          "rank": 19,
+          "growthPercentage": 8.9,
+          "userCount": 1200,
+          "category": "Productivity",
+          "relatedJobTitles": ["Business Analyst", "Financial Analyst", "Data Analyst"]
+        },
+        {
+          "skillId": "skill_communication_014",
+          "name": "Communication",
+          "description": "Effective communication skills",
+          "rank": 20,
+          "growthPercentage": 12.6,
+          "userCount": 1180,
+          "category": "Soft Skills",
+          "relatedJobTitles": ["Manager", "Sales Representative", "Product Manager"]
+        },
+        {
+          "skillId": "skill_azure_devops_054",
+          "name": "Azure DevOps",
+          "description": "Microsoft DevOps platform for CI/CD",
+          "rank": 21,
+          "growthPercentage": 34.2,
+          "userCount": 1150,
+          "category": "DevOps",
+          "relatedJobTitles": ["DevOps Engineer", "Software Engineer", "Release Manager"]
+        },
+        {
+          "skillId": "skill_react_002",
+          "name": "React",
+          "description": "React JavaScript library for building user interfaces",
+          "rank": 22,
+          "growthPercentage": 24.1,
+          "userCount": 1120,
+          "category": "Web Development",
+          "relatedJobTitles": ["Frontend Engineer", "Full Stack Developer", "Software Engineer"]
+        },
+        {
+          "skillId": "skill_kubernetes_005",
+          "name": "Kubernetes",
+          "description": "Container orchestration platform",
+          "rank": 23,
+          "growthPercentage": 33.5,
+          "userCount": 1080,
+          "category": "Cloud & Infrastructure",
+          "relatedJobTitles": ["DevOps Engineer", "Cloud Architect", "Platform Engineer"]
+        },
+        {
+          "skillId": "skill_powerplatform_055",
+          "name": "Microsoft Power Platform",
+          "description": "Low-code application development platform",
+          "rank": 24,
+          "growthPercentage": 41.7,
+          "userCount": 1050,
+          "category": "Low-Code Development",
+          "relatedJobTitles": ["Business Analyst", "Citizen Developer", "Power Platform Developer"]
+        },
+        {
+          "skillId": "skill_dynamics365_056",
+          "name": "Dynamics 365",
+          "description": "Microsoft business applications platform",
+          "rank": 25,
+          "growthPercentage": 28.3,
+          "userCount": 1020,
+          "category": "Business Applications",
+          "relatedJobTitles": ["Business Analyst", "CRM Administrator", "ERP Consultant"]
+        }
+      ]
+    },
+    "contoso-ltd": {
+      "tenantId": "contoso-ltd",
+      "lastUpdated": "2025-07-17T10:00:00Z",
+      "totalCount": 22,
+      "skills": [
+        {
+          "skillId": "skill_leadership_013",
+          "name": "Leadership",
+          "description": "Leadership and management skills",
+          "rank": 1,
+          "growthPercentage": 22.3,
+          "userCount": 1800,
+          "category": "Management",
+          "relatedJobTitles": ["Manager", "Director", "Team Lead"]
+        },
+        {
+          "skillId": "skill_communication_014",
+          "name": "Communication",
+          "description": "Effective communication skills",
+          "rank": 2,
+          "growthPercentage": 15.7,
+          "userCount": 1650,
+          "category": "Soft Skills",
+          "relatedJobTitles": ["Manager", "Sales Representative", "Product Manager"]
+        },
+        {
+          "skillId": "skill_sales_015",
+          "name": "Sales",
+          "description": "Sales techniques and customer relationship management",
+          "rank": 3,
+          "growthPercentage": 15.3,
+          "userCount": 1200,
+          "category": "Sales",
+          "relatedJobTitles": ["Sales Representative", "Account Manager", "Sales Manager"]
+        },
+        {
+          "skillId": "skill_marketing_016",
+          "name": "Digital Marketing",
+          "description": "Digital marketing strategies and tools",
+          "rank": 4,
+          "growthPercentage": 22.8,
+          "userCount": 980,
+          "category": "Marketing",
+          "relatedJobTitles": ["Marketing Manager", "Digital Marketing Specialist", "Content Creator"]
+        },
+        {
+          "skillId": "skill_customer_service_057",
+          "name": "Customer Service",
+          "description": "Customer support and service excellence",
+          "rank": 5,
+          "growthPercentage": 18.4,
+          "userCount": 850,
+          "category": "Customer Service",
+          "relatedJobTitles": ["Customer Service Representative", "Support Specialist", "Account Manager"]
+        },
+        {
+          "skillId": "skill_finance_058",
+          "name": "Financial Analysis",
+          "description": "Financial planning and analysis skills",
+          "rank": 6,
+          "growthPercentage": 12.9,
+          "userCount": 720,
+          "category": "Finance",
+          "relatedJobTitles": ["Financial Analyst", "CFO", "Budget Analyst"]
+        },
+        {
+          "skillId": "skill_hr_059",
+          "name": "Human Resources",
+          "description": "HR management and recruitment practices",
+          "rank": 7,
+          "growthPercentage": 16.7,
+          "userCount": 680,
+          "category": "Human Resources",
+          "relatedJobTitles": ["HR Manager", "Recruiter", "HR Business Partner"]
+        },
+        {
+          "skillId": "skill_operations_060",
+          "name": "Operations Management",
+          "description": "Business operations and process optimization",
+          "rank": 8,
+          "growthPercentage": 14.2,
+          "userCount": 640,
+          "category": "Operations",
+          "relatedJobTitles": ["Operations Manager", "Process Improvement Specialist", "COO"]
+        },
+        {
+          "skillId": "skill_crm_061",
+          "name": "CRM Systems",
+          "description": "Customer relationship management software",
+          "rank": 9,
+          "growthPercentage": 25.6,
+          "userCount": 590,
+          "category": "Sales Technology",
+          "relatedJobTitles": ["Sales Manager", "CRM Administrator", "Business Analyst"]
+        },
+        {
+          "skillId": "skill_accounting_062",
+          "name": "Accounting",
+          "description": "Financial accounting and bookkeeping",
+          "rank": 10,
+          "growthPercentage": 9.8,
+          "userCount": 560,
+          "category": "Finance",
+          "relatedJobTitles": ["Accountant", "Financial Controller", "Bookkeeper"]
+        },
+        {
+          "skillId": "skill_supply_chain_063",
+          "name": "Supply Chain Management",
+          "description": "Supply chain optimization and logistics",
+          "rank": 11,
+          "growthPercentage": 19.3,
+          "userCount": 520,
+          "category": "Operations",
+          "relatedJobTitles": ["Supply Chain Manager", "Logistics Coordinator", "Procurement Specialist"]
+        },
+        {
+          "skillId": "skill_quality_064",
+          "name": "Quality Assurance",
+          "description": "Quality control and assurance processes",
+          "rank": 12,
+          "growthPercentage": 13.5,
+          "userCount": 480,
+          "category": "Quality",
+          "relatedJobTitles": ["QA Manager", "Quality Engineer", "Compliance Officer"]
+        },
+        {
+          "skillId": "skill_business_analysis_065",
+          "name": "Business Analysis",
+          "description": "Business process analysis and improvement",
+          "rank": 13,
+          "growthPercentage": 21.7,
+          "userCount": 450,
+          "category": "Analysis",
+          "relatedJobTitles": ["Business Analyst", "Process Analyst", "Systems Analyst"]
+        },
+        {
+          "skillId": "skill_negotiation_066",
+          "name": "Negotiation",
+          "description": "Contract negotiation and deal closing",
+          "rank": 14,
+          "growthPercentage": 17.9,
+          "userCount": 420,
+          "category": "Sales",
+          "relatedJobTitles": ["Sales Director", "Account Manager", "Procurement Manager"]
+        },
+        {
+          "skillId": "skill_lean_067",
+          "name": "Lean Manufacturing",
+          "description": "Lean principles and continuous improvement",
+          "rank": 15,
+          "growthPercentage": 11.4,
+          "userCount": 390,
+          "category": "Operations",
+          "relatedJobTitles": ["Operations Manager", "Process Engineer", "Continuous Improvement Specialist"]
+        },
+        {
+          "skillId": "skill_compliance_068",
+          "name": "Regulatory Compliance",
+          "description": "Industry regulations and compliance management",
+          "rank": 16,
+          "growthPercentage": 24.2,
+          "userCount": 360,
+          "category": "Compliance",
+          "relatedJobTitles": ["Compliance Officer", "Risk Manager", "Legal Counsel"]
+        },
+        {
+          "skillId": "skill_inventory_069",
+          "name": "Inventory Management",
+          "description": "Inventory planning and warehouse management",
+          "rank": 17,
+          "growthPercentage": 15.8,
+          "userCount": 340,
+          "category": "Operations",
+          "relatedJobTitles": ["Inventory Manager", "Warehouse Supervisor", "Logistics Coordinator"]
+        },
+        {
+          "skillId": "skill_budgeting_070",
+          "name": "Budgeting & Forecasting",
+          "description": "Financial planning and budget management",
+          "rank": 18,
+          "growthPercentage": 12.3,
+          "userCount": 320,
+          "category": "Finance",
+          "relatedJobTitles": ["Budget Manager", "Financial Planner", "Controller"]
+        },
+        {
+          "skillId": "skill_training_071",
+          "name": "Training & Development",
+          "description": "Employee training and development programs",
+          "rank": 19,
+          "growthPercentage": 20.1,
+          "userCount": 300,
+          "category": "Human Resources",
+          "relatedJobTitles": ["Training Manager", "L&D Specialist", "HR Business Partner"]
+        },
+        {
+          "skillId": "skill_vendor_072",
+          "name": "Vendor Management",
+          "description": "Supplier and vendor relationship management",
+          "rank": 20,
+          "growthPercentage": 18.6,
+          "userCount": 280,
+          "category": "Procurement",
+          "relatedJobTitles": ["Procurement Manager", "Vendor Relations Specialist", "Supply Chain Manager"]
+        },
+        {
+          "skillId": "skill_risk_073",
+          "name": "Risk Management",
+          "description": "Enterprise risk assessment and mitigation",
+          "rank": 21,
+          "growthPercentage": 23.4,
+          "userCount": 260,
+          "category": "Risk",
+          "relatedJobTitles": ["Risk Manager", "Compliance Officer", "Internal Auditor"]
+        },
+        {
+          "skillId": "skill_strategic_074",
+          "name": "Strategic Planning",
+          "description": "Long-term strategic planning and execution",
+          "rank": 22,
+          "growthPercentage": 16.2,
+          "userCount": 240,
+          "category": "Strategy",
+          "relatedJobTitles": ["Strategy Manager", "Business Development Manager", "CEO"]
+        }
+      ]
+    }
+  }
+}
