@@ -1,115 +1,115 @@
 {
   "trendingSkillsData": [
-    {
-    "jobTitleData": {
-    "Software Engineer": {
-    "jobTitle": "Software Engineer",
-    "lastUpdated": "2025-07-17T10:00:00Z",
-    "totalCount": 3,
-    "skills": [
-    {
-    "skillId": "skill_python_001",
-    "name": "Python",
-    "description": "Python programming language",
-    "rank": 1,
-    "growthPercentage": 15.5,
-    "userCount": 1250,
-    "category": "Programming Languages",
-    "relatedJobTitles": [
-    "Software Engineer",
-    "Data Scientist",
-    "ML Engineer"
-    ],
-    "courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%222a40b544-4390-4b73-adc7-fca8b7844c2d%22%2c%22learningSourceId%22%3a%222554aeea-f58b-4c6c-a5fe-9b91f8a967cc%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22PLURALSIGHT_psl13685.00%22%7d%7d"
-    },
-    {
-    "skillId": "skill_react_002",
-    "name": "React",
-    "description": "React JavaScript library for building user interfaces",
-    "rank": 2,
-    "growthPercentage": 12.3,
-    "userCount": 980,
-    "category": "Web Development",
-    "relatedJobTitles": [
-    "Frontend Engineer",
-    "Full Stack Developer",
-    "Software Engineer"
-    ],
-    "courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%22362bb873-45d9-41ce-b149-720e3e9719f1%22%2c%22learningSourceId%22%3a%222554aeea-f58b-4c6c-a5fe-9b91f8a967cc%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22PLURALSIGHT_psl9736.00%22%7d%7d"
-    },
-    {
-    "skillId": "skill_docker_003",
-    "name": "Docker",
-    "description": "Container platform for application deployment",
-    "rank": 3,
-    "growthPercentage": 18.7,
-    "userCount": 875,
-    "category": "DevOps",
-    "relatedJobTitles": [
-    "DevOps Engineer",
-    "Software Engineer",
-    "Cloud Architect"
-    ],
-    "courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%227d606023-49bc-4839-90c8-0a2a27ff10a9%22%2c%22learningSourceId%22%3a%222554aeea-f58b-4c6c-a5fe-9b91f8a967cc%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22PLURALSIGHT_psl6627.00%22%7d%7d"
-    }
-    ]
-    },
-    "Data Scientist": {
-    "jobTitle": "Data Scientist",
-    "lastUpdated": "2025-07-17T10:00:00Z",
-    "totalCount": 3,
-    "skills": [
-    {
-    "skillId": "skill_python_001",
-    "name": "Python",
-    "description": "Python programming language",
-    "rank": 1,
-    "growthPercentage": 20.2,
-    "userCount": 890,
-    "category": "Programming Languages",
-    "relatedJobTitles": [
-    "Data Scientist",
-    "ML Engineer",
-    "Software Engineer"
-    ],
-    "courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%222a40b544-4390-4b73-adc7-fca8b7844c2d%22%2c%22learningSourceId%22%3a%222554aeea-f58b-4c6c-a5fe-9b91f8a967cc%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22PLURALSIGHT_psl13685.00%22%7d%7d"
-    },
-    {
-    "skillId": "skill_ml_006",
-    "name": "Machine Learning",
-    "description": "Machine learning algorithms and frameworks",
-    "rank": 2,
-    "growthPercentage": 35.8,
-    "userCount": 780,
-    "category": "AI/ML",
-    "relatedJobTitles": [
-    "Data Scientist",
-    "ML Engineer",
-    "AI Researcher"
-    ],
-    "courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%2261fbb822-8434-4796-b020-a1931f67b837%22%2c%22learningSourceId%22%3a%22MSLearn%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22learn.machinelearning.introduction-to-machine-learning%22%7d%7d"
-    },
-    {
-    "skillId": "skill_pandas_007",
-    "name": "Pandas",
-    "description": "Data manipulation and analysis library for Python",
-    "rank": 3,
-    "growthPercentage": 18.5,
-    "userCount": 650,
-    "category": "Data Analysis",
-    "relatedJobTitles": [
-    "Data Scientist",
-    "Data Analyst",
-    "ML Engineer"
-    ],
-    "courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%22a9c4e4c7-f7c3-4176-8e8a-6f17c56418d2%22%2c%22learningSourceId%22%3a%222554aeea-f58b-4c6c-a5fe-9b91f8a967cc%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22MSLibrary_562182_video%22%7d%7d"
-    }
-    ]
-    },
+{
+"jobTitleData": {
+"Software Engineer": {
+"jobTitle": "Software Engineer",
+"lastUpdated": "2025-07-17T10:00:00Z",
+"totalCount": 3,
+"skills": [
+{
+"skillId": "skill_python_001",
+"name": "Python",
+"description": "Python programming language",
+"rank": 1,
+"growthPercentage": 15.5,
+"userCount": 1250,
+"category": "Programming Languages",
+"relatedJobTitles": [
+"Software Engineer",
+"Data Scientist",
+"ML Engineer"
+],
+"courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%222a40b544-4390-4b73-adc7-fca8b7844c2d%22%2c%22learningSourceId%22%3a%222554aeea-f58b-4c6c-a5fe-9b91f8a967cc%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22PLURALSIGHT_psl13685.00%22%7d%7d"
+},
+{
+"skillId": "skill_react_002",
+"name": "React",
+"description": "React JavaScript library for building user interfaces",
+"rank": 2,
+"growthPercentage": 12.3,
+"userCount": 980,
+"category": "Web Development",
+"relatedJobTitles": [
+"Frontend Engineer",
+"Full Stack Developer",
+"Software Engineer"
+],
+"courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%22362bb873-45d9-41ce-b149-720e3e9719f1%22%2c%22learningSourceId%22%3a%222554aeea-f58b-4c6c-a5fe-9b91f8a967cc%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22PLURALSIGHT_psl9736.00%22%7d%7d"
+},
+{
+"skillId": "skill_docker_003",
+"name": "Docker",
+"description": "Container platform for application deployment",
+"rank": 3,
+"growthPercentage": 18.7,
+"userCount": 875,
+"category": "DevOps",
+"relatedJobTitles": [
+"DevOps Engineer",
+"Software Engineer",
+"Cloud Architect"
+],
+"courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%227d606023-49bc-4839-90c8-0a2a27ff10a9%22%2c%22learningSourceId%22%3a%222554aeea-f58b-4c6c-a5fe-9b91f8a967cc%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22PLURALSIGHT_psl6627.00%22%7d%7d"
+}
+]
+},
+"Data Scientist": {
+"jobTitle": "Data Scientist",
+"lastUpdated": "2025-07-17T10:00:00Z",
+"totalCount": 3,
+"skills": [
+{
+"skillId": "skill_python_001",
+"name": "Python",
+"description": "Python programming language",
+"rank": 1,
+"growthPercentage": 20.2,
+"userCount": 890,
+"category": "Programming Languages",
+"relatedJobTitles": [
+"Data Scientist",
+"ML Engineer",
+"Software Engineer"
+],
+"courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%222a40b544-4390-4b73-adc7-fca8b7844c2d%22%2c%22learningSourceId%22%3a%222554aeea-f58b-4c6c-a5fe-9b91f8a967cc%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22PLURALSIGHT_psl13685.00%22%7d%7d"
+},
+{
+"skillId": "skill_ml_006",
+"name": "Machine Learning",
+"description": "Machine learning algorithms and frameworks",
+"rank": 2,
+"growthPercentage": 35.8,
+"userCount": 780,
+"category": "AI/ML",
+"relatedJobTitles": [
+"Data Scientist",
+"ML Engineer",
+"AI Researcher"
+],
+"courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%2261fbb822-8434-4796-b020-a1931f67b837%22%2c%22learningSourceId%22%3a%22MSLearn%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22learn.machinelearning.introduction-to-machine-learning%22%7d%7d"
+},
+{
+"skillId": "skill_pandas_007",
+"name": "Pandas",
+"description": "Data manipulation and analysis library for Python",
+"rank": 3,
+"growthPercentage": 18.5,
+"userCount": 650,
+"category": "Data Analysis",
+"relatedJobTitles": [
+"Data Scientist",
+"Data Analyst",
+"ML Engineer"
+],
+"courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%22a9c4e4c7-f7c3-4176-8e8a-6f17c56418d2%22%2c%22learningSourceId%22%3a%222554aeea-f58b-4c6c-a5fe-9b91f8a967cc%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22MSLibrary_562182_video%22%7d%7d"
+}
+]
+},
 "Product Manager": {
 "jobTitle": "Product Manager",
 "lastUpdated": "2025-07-17T10:00:00Z",
-"totalCount": 4,
+"totalCount": 3,
 "skills": [
 {
 "skillId": "skill_agile_008",
@@ -140,36 +140,6 @@
 "Business Analyst"
 ],
 "courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%22398225a8-087f-4039-b2b3-2b445531a504%22%2c%22learningSourceId%22%3a%222554aeea-f58b-4c6c-a5fe-9b91f8a967cc%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22MSLibrary_555439_video%22%7d%7d"
-},
-{
-"skillId": "skill_roadmapping_034",
-"name": "Product Roadmapping",
-"description": "Strategic planning and prioritization of product features",
-"rank": 3,
-"growthPercentage": 22.1,
-"userCount": 780,
-"category": "Strategy",
-"relatedJobTitles": [
-"Product Manager",
-"Product Owner",
-"Strategy Manager"
-],
-"courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%224c72999c-24f5-49ad-bd1d-b005f9ea8a7d%22%2c%22learningSourceId%22%3a%22LinkedIn%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22urn%3ali%3alyndaCourse%3a630598%22%7d%7d"
-},
-{
-"skillId": "skill_userresearch_035",
-"name": "User Research",
-"description": "Methods for understanding user needs and behaviors",
-"rank": 4,
-"growthPercentage": 31.5,
-"userCount": 650,
-"category": "Research",
-"relatedJobTitles": [
-"Product Manager",
-"UX Researcher",
-"Design Researcher"
-],
-"courseLink": "https://learning.cloud.microsoft/training/"
 }
 ]
 }
@@ -195,89 +165,75 @@
 ],
 "courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%22531f1a66-c453-4919-938d-b285a28cd98b%22%2c%22learningSourceId%22%3a%222554aeea-f58b-4c6c-a5fe-9b91f8a967cc%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22MSLibrary_526332_e-audio%22%7d%7d"
 },
-            {
-              "skillId": "skill_pm_011",
-              "name": "Project Management",
-              "description": "Project management methodologies and tools",
-              "rank": 2,
-              "growthPercentage": 12.1,
-              "userCount": 2890,
-              "category": "Management",
-              "relatedJobTitles": [
-                "Program Manager",
-                "Scrum Master"
-              ],
-              "courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%22ef1cd73b-f235-4249-ac6c-d1f48b0edf39%22%2c%22learningSourceId%22%3a%222554aeea-f58b-4c6c-a5fe-9b91f8a967cc%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22MSLibrary_530206_e-book%22%2c%22catalogItemId%22%3a%224ab710e8-2a9a-41bd-b875-4597ffc99347%22%7d%7d"
-            },
-            {
-              "skillId": "skill_ai_012",
-              "name": "Artificial Intelligence",
-              "description": "AI and machine learning concepts",
-              "rank": 3,
-              "growthPercentage": 35.2,
-              "userCount": 2500,
-              "category": "AI/ML",
-              "relatedJobTitles": [
-                "Data Scientist",
-                "ML Engineer",
-                "AI Researcher"
-              ],
-              "courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%22715b690d-9f13-4b99-ad09-d1b07381719e%22%2c%22learningSourceId%22%3a%222554aeea-f58b-4c6c-a5fe-9b91f8a967cc%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22PLURALSIGHT_psl593073922.00%22%2c%22catalogItemId%22%3a%22aafb2d2b-3d25-43f4-ab0d-61533a2345cc%22%7d%7d"
-            }
-          ]
-        },
-        "contoso-ltd": {
-          "tenantId": "contoso-ltd",
-          "lastUpdated": "2025-07-17T10:00:00Z",
-          "totalCount": 3,
-          "skills": [
-            {
-              "skillId": "skill_leadership_013",
-              "name": "Leadership",
-              "description": "Leadership and management skills",
-              "rank": 1,
-              "growthPercentage": 22.3,
-              "userCount": 1800,
-              "category": "Management",
-              "relatedJobTitles": [
-                "Manager",
-                "Director",
-                "Team Lead"
-              ],
-              "courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%2277d33437-a4ee-4d28-832e-2d2869d830d9%22%2c%22learningSourceId%22%3a%222554aeea-f58b-4c6c-a5fe-9b91f8a967cc%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22PLURALSIGHT_psl614797987.00%22%7d%7d"
-            },
-            {
-              "skillId": "skill_communication_014",
-              "name": "Communication",
-              "description": "Effective communication skills",
-              "rank": 2,
-              "growthPercentage": 15.7,
-              "userCount": 1650,
-              "category": "Soft Skills",
-              "relatedJobTitles": [
-                "Manager",
-                "Sales Representative",
-                "Product Manager"
-              ],
-              "courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%226510bef3-01c3-478f-82bc-3ee3b5cfd26f%22%2c%22learningSourceId%22%3a%222554aeea-f58b-4c6c-a5fe-9b91f8a967cc%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22SuccessFactors_s9227655%22%7d%7d"
-            },
-            {
-              "skillId": "skill_sales_015",
-              "name": "Sales",
-              "description": "Sales techniques and customer relationship management",
-              "rank": 3,
-              "growthPercentage": 15.3,
-              "userCount": 1200,
-              "category": "Sales",
-              "relatedJobTitles": [
-                "Account Manager",
-                "Sales Manager"
-              ],
-              "courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%22f0b82188-2436-43e2-a03d-28e597c2f5b3%22%2c%22learningSourceId%22%3a%222554aeea-f58b-4c6c-a5fe-9b91f8a967cc%22%2c%22language%22%3a%22en_us%22%7d%7d"
-            }
-          ]
-        }
-      }
-    }
-  ]
+{
+"skillId": "skill_pm_011",
+"name": "Project Management",
+"description": "Project management methodologies and tools",
+"rank": 2,
+"growthPercentage": 12.1,
+"userCount": 2890,
+"category": "Management",
+"relatedJobTitles": [
+"Program Manager",
+"Scrum Master"
+],
+"courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%22ef1cd73b-f235-4249-ac6c-d1f48b0edf39%22%2c%22learningSourceId%22%3a%222554aeea-f58b-4c6c-a5fe-9b91f8a967cc%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22MSLibrary_530206_e-book%22%2c%22catalogItemId%22%3a%224ab710e8-2a9a-41bd-b875-4597ffc99347%22%7d%7d"
+},
+{
+"skillId": "skill_ai_012",
+"name": "Artificial Intelligence",
+"description": "AI and machine learning concepts",
+"rank": 3,
+"growthPercentage": 35.2,
+"userCount": 2500,
+"category": "AI/ML",
+"relatedJobTitles": [
+"Data Scientist",
+"ML Engineer",
+"AI Researcher"
+],
+"courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%22715b690d-9f13-4b99-ad09-d1b07381719e%22%2c%22learningSourceId%22%3a%222554aeea-f58b-4c6c-a5fe-9b91f8a967cc%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22PLURALSIGHT_psl593073922.00%22%2c%22catalogItemId%22%3a%22aafb2d2b-3d25-43f4-ab0d-61533a2345cc%22%7d%7d"
+}
+]
+},
+"contoso-ltd": {
+"tenantId": "contoso-ltd",
+"lastUpdated": "2025-07-17T10:00:00Z",
+"totalCount": 2,
+"skills": [
+{
+"skillId": "skill_leadership_013",
+"name": "Leadership",
+"description": "Leadership and management skills",
+"rank": 1,
+"growthPercentage": 22.3,
+"userCount": 1800,
+"category": "Management",
+"relatedJobTitles": [
+"Manager",
+"Director",
+"Team Lead"
+],
+"courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%2277d33437-a4ee-4d28-832e-2d2869d830d9%22%2c%22learningSourceId%22%3a%222554aeea-f58b-4c6c-a5fe-9b91f8a967cc%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22PLURALSIGHT_psl614797987.00%22%7d%7d"
+},
+{
+"skillId": "skill_communication_014",
+"name": "Communication",
+"description": "Effective communication skills",
+"rank": 2,
+"growthPercentage": 15.7,
+"userCount": 1650,
+"category": "Soft Skills",
+"relatedJobTitles": [
+"Manager",
+"Sales Representative",
+"Product Manager"
+],
+"courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%226510bef3-01c3-478f-82bc-3ee3b5cfd26f%22%2c%22learningSourceId%22%3a%222554aeea-f58b-4c6c-a5fe-9b91f8a967cc%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22SuccessFactors_s9227655%22%7d%7d"
+}
+]
+}
+}
+}
+]
 }
