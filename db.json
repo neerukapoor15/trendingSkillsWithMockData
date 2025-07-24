@@ -1,112 +1,112 @@
 {
   "trendingSkillsData": [
     {
-      "jobTitleData": {
-        "Software Engineer": {
-          "jobTitle": "Software Engineer",
-          "lastUpdated": "2025-07-17T10:00:00Z",
-          "totalCount": 3,
-          "skills": [
-            {
-              "skillId": "skill_python_001",
-              "name": "Python",
-              "description": "Python programming language",
-              "rank": 1,
-              "growthPercentage": 15.5,
-              "userCount": 1250,
-              "category": "Programming Languages",
-              "relatedJobTitles": [
-                "Software Engineer",
-                "Data Scientist",
-                "ML Engineer"
-              ],
-              "courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%222a40b544-4390-4b73-adc7-fca8b7844c2d%22%2c%22learningSourceId%22%3a%222554aeea-f58b-4c6c-a5fe-9b91f8a967cc%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22PLURALSIGHT_psl13685.00%22%7d%7d"
-            },
-            {
-              "skillId": "skill_react_002",
-              "name": "React",
-              "description": "React JavaScript library for building user interfaces",
-              "rank": 2,
-              "growthPercentage": 12.3,
-              "userCount": 980,
-              "category": "Web Development",
-              "relatedJobTitles": [
-                "Frontend Engineer",
-                "Full Stack Developer",
-                "Software Engineer"
-              ],
-              "courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%22362bb873-45d9-41ce-b149-720e3e9719f1%22%2c%22learningSourceId%22%3a%222554aeea-f58b-4c6c-a5fe-9b91f8a967cc%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22PLURALSIGHT_psl9736.00%22%7d%7d"
-            },
-            {
-              "skillId": "skill_docker_003",
-              "name": "Docker",
-              "description": "Container platform for application deployment",
-              "rank": 3,
-              "growthPercentage": 18.7,
-              "userCount": 875,
-              "category": "DevOps",
-              "relatedJobTitles": [
-                "DevOps Engineer",
-                "Software Engineer",
-                "Cloud Architect"
-              ],
-              "courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%227d606023-49bc-4839-90c8-0a2a27ff10a9%22%2c%22learningSourceId%22%3a%222554aeea-f58b-4c6c-a5fe-9b91f8a967cc%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22PLURALSIGHT_psl6627.00%22%7d%7d"
-            }
-          ]
-        },
-        "Data Scientist": {
-          "jobTitle": "Data Scientist",
-          "lastUpdated": "2025-07-17T10:00:00Z",
-          "totalCount": 3,
-          "skills": [
-            {
-              "skillId": "skill_python_001",
-              "name": "Python",
-              "description": "Python programming language",
-              "rank": 1,
-              "growthPercentage": 20.2,
-              "userCount": 890,
-              "category": "Programming Languages",
-              "relatedJobTitles": [
-                "Data Scientist",
-                "ML Engineer",
-                "Software Engineer"
-              ],
-              "courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%222a40b544-4390-4b73-adc7-fca8b7844c2d%22%2c%22learningSourceId%22%3a%222554aeea-f58b-4c6c-a5fe-9b91f8a967cc%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22PLURALSIGHT_psl13685.00%22%7d%7d"
-            },
-            {
-              "skillId": "skill_ml_006",
-              "name": "Machine Learning",
-              "description": "Machine learning algorithms and frameworks",
-              "rank": 2,
-              "growthPercentage": 35.8,
-              "userCount": 780,
-              "category": "AI/ML",
-              "relatedJobTitles": [
-                "Data Scientist",
-                "ML Engineer",
-                "AI Researcher"
-              ],
-              "courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%2261fbb822-8434-4796-b020-a1931f67b837%22%2c%22learningSourceId%22%3a%22MSLearn%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22learn.machinelearning.introduction-to-machine-learning%22%7d%7d"
-            },
-            {
-              "skillId": "skill_pandas_007",
-              "name": "Pandas",
-              "description": "Data manipulation and analysis library for Python",
-              "rank": 3,
-              "growthPercentage": 18.5,
-              "userCount": 650,
-              "category": "Data Analysis",
-              "relatedJobTitles": [
-                "Data Scientist",
-                "Data Analyst",
-                "ML Engineer"
-              ],
-              "courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%22a9c4e4c7-f7c3-4176-8e8a-6f17c56418d2%22%2c%22learningSourceId%22%3a%222554aeea-f58b-4c6c-a5fe-9b91f8a967cc%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22MSLibrary_562182_video%22%7d%7d"
-            }
-          ]
-        },
-        "Product Manager": {
+    "jobTitleData": {
+    "Software Engineer": {
+    "jobTitle": "Software Engineer",
+    "lastUpdated": "2025-07-17T10:00:00Z",
+    "totalCount": 3,
+    "skills": [
+    {
+    "skillId": "skill_python_001",
+    "name": "Python",
+    "description": "Python programming language",
+    "rank": 1,
+    "growthPercentage": 15.5,
+    "userCount": 1250,
+    "category": "Programming Languages",
+    "relatedJobTitles": [
+    "Software Engineer",
+    "Data Scientist",
+    "ML Engineer"
+    ],
+    "courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%222a40b544-4390-4b73-adc7-fca8b7844c2d%22%2c%22learningSourceId%22%3a%222554aeea-f58b-4c6c-a5fe-9b91f8a967cc%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22PLURALSIGHT_psl13685.00%22%7d%7d"
+    },
+    {
+    "skillId": "skill_react_002",
+    "name": "React",
+    "description": "React JavaScript library for building user interfaces",
+    "rank": 2,
+    "growthPercentage": 12.3,
+    "userCount": 980,
+    "category": "Web Development",
+    "relatedJobTitles": [
+    "Frontend Engineer",
+    "Full Stack Developer",
+    "Software Engineer"
+    ],
+    "courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%22362bb873-45d9-41ce-b149-720e3e9719f1%22%2c%22learningSourceId%22%3a%222554aeea-f58b-4c6c-a5fe-9b91f8a967cc%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22PLURALSIGHT_psl9736.00%22%7d%7d"
+    },
+    {
+    "skillId": "skill_docker_003",
+    "name": "Docker",
+    "description": "Container platform for application deployment",
+    "rank": 3,
+    "growthPercentage": 18.7,
+    "userCount": 875,
+    "category": "DevOps",
+    "relatedJobTitles": [
+    "DevOps Engineer",
+    "Software Engineer",
+    "Cloud Architect"
+    ],
+    "courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%227d606023-49bc-4839-90c8-0a2a27ff10a9%22%2c%22learningSourceId%22%3a%222554aeea-f58b-4c6c-a5fe-9b91f8a967cc%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22PLURALSIGHT_psl6627.00%22%7d%7d"
+    }
+    ]
+    },
+    "Data Scientist": {
+    "jobTitle": "Data Scientist",
+    "lastUpdated": "2025-07-17T10:00:00Z",
+    "totalCount": 3,
+    "skills": [
+    {
+    "skillId": "skill_python_001",
+    "name": "Python",
+    "description": "Python programming language",
+    "rank": 1,
+    "growthPercentage": 20.2,
+    "userCount": 890,
+    "category": "Programming Languages",
+    "relatedJobTitles": [
+    "Data Scientist",
+    "ML Engineer",
+    "Software Engineer"
+    ],
+    "courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%222a40b544-4390-4b73-adc7-fca8b7844c2d%22%2c%22learningSourceId%22%3a%222554aeea-f58b-4c6c-a5fe-9b91f8a967cc%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22PLURALSIGHT_psl13685.00%22%7d%7d"
+    },
+    {
+    "skillId": "skill_ml_006",
+    "name": "Machine Learning",
+    "description": "Machine learning algorithms and frameworks",
+    "rank": 2,
+    "growthPercentage": 35.8,
+    "userCount": 780,
+    "category": "AI/ML",
+    "relatedJobTitles": [
+    "Data Scientist",
+    "ML Engineer",
+    "AI Researcher"
+    ],
+    "courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%2261fbb822-8434-4796-b020-a1931f67b837%22%2c%22learningSourceId%22%3a%22MSLearn%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22learn.machinelearning.introduction-to-machine-learning%22%7d%7d"
+    },
+    {
+    "skillId": "skill_pandas_007",
+    "name": "Pandas",
+    "description": "Data manipulation and analysis library for Python",
+    "rank": 3,
+    "growthPercentage": 18.5,
+    "userCount": 650,
+    "category": "Data Analysis",
+    "relatedJobTitles": [
+    "Data Scientist",
+    "Data Analyst",
+    "ML Engineer"
+    ],
+    "courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%22a9c4e4c7-f7c3-4176-8e8a-6f17c56418d2%22%2c%22learningSourceId%22%3a%222554aeea-f58b-4c6c-a5fe-9b91f8a967cc%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22MSLibrary_562182_video%22%7d%7d"
+    }
+    ]
+    },
+    "Product Manager": {
           "jobTitle": "Product Manager",
           "lastUpdated": "2025-07-17T10:00:00Z",
           "totalCount": 4,
