@@ -106,95 +106,95 @@
     }
     ]
     },
-    "Product Manager": {
-          "jobTitle": "Product Manager",
-          "lastUpdated": "2025-07-17T10:00:00Z",
-          "totalCount": 4,
-          "skills": [
-            {
-              "skillId": "skill_agile_008",
-              "name": "Agile Methodologies",
-              "description": "Agile project management and development practices",
-              "rank": 1,
-              "growthPercentage": 12.4,
-              "userCount": 1200,
-              "category": "Methodology",
-              "relatedJobTitles": [
-                "Product Manager",
-                "Scrum Master",
-                "Project Manager"
-              ],
-              "courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%225368b0a1-eb22-4cac-809a-6a6cb7c71111%22%2c%22learningSourceId%22%3a%222554aeea-f58b-4c6c-a5fe-9b91f8a967cc%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22SuccessFactors_s4280429%22%7d%7d"
-            },
-            {
-              "skillId": "skill_analytics_009",
-              "name": "Product Analytics",
-              "description": "Data analysis for product decision making",
-              "rank": 2,
-              "growthPercentage": 28.9,
-              "userCount": 890,
-              "category": "Analytics",
-              "relatedJobTitles": [
-                "Product Manager",
-                "Data Analyst",
-                "Business Analyst"
-              ],
-              "courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%22398225a8-087f-4039-b2b3-2b445531a504%22%2c%22learningSourceId%22%3a%222554aeea-f58b-4c6c-a5fe-9b91f8a967cc%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22MSLibrary_555439_video%22%7d%7d"
-            },
-            {
-              "skillId": "skill_roadmapping_034",
-              "name": "Product Roadmapping",
-              "description": "Strategic planning and prioritization of product features",
-              "rank": 3,
-              "growthPercentage": 22.1,
-              "userCount": 780,
-              "category": "Strategy",
-              "relatedJobTitles": [
-                "Product Manager",
-                "Product Owner",
-                "Strategy Manager"
-              ],
-              "courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%224c72999c-24f5-49ad-bd1d-b005f9ea8a7d%22%2c%22learningSourceId%22%3a%22LinkedIn%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22urn%3ali%3alyndaCourse%3a630598%22%7d%7d"
-            },
-            {
-              "skillId": "skill_userresearch_035",
-              "name": "User Research",
-              "description": "Methods for understanding user needs and behaviors",
-              "rank": 4,
-              "growthPercentage": 31.5,
-              "userCount": 650,
-              "category": "Research",
-              "relatedJobTitles": [
-                "Product Manager",
-                "UX Researcher",
-                "Design Researcher"
-              ],
-              "courseLink": "https://learning.cloud.microsoft/training/"
-            }
-          ]
-        }
-      },
-      "tenantData": {
-        "microsoft-corp": {
-          "tenantId": "microsoft-corp",
-          "lastUpdated": "2025-07-17T10:00:00Z",
-          "totalCount": 3,
-          "skills": [
-            {
-              "skillId": "skill_cloud_010",
-              "name": "Cloud Computing",
-              "description": "Cloud computing platforms",
-              "rank": 1,
-              "growthPercentage": 28.7,
-              "userCount": 3450,
-              "category": "Cloud & Infrastructure",
-              "relatedJobTitles": [
-                "Cloud Architect",
-                "DevOps Engineer",
-                "Software Engineer"
-              ],
-              "courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%22531f1a66-c453-4919-938d-b285a28cd98b%22%2c%22learningSourceId%22%3a%222554aeea-f58b-4c6c-a5fe-9b91f8a967cc%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22MSLibrary_526332_e-audio%22%7d%7d"
-            },
+"Product Manager": {
+"jobTitle": "Product Manager",
+"lastUpdated": "2025-07-17T10:00:00Z",
+"totalCount": 4,
+"skills": [
+{
+"skillId": "skill_agile_008",
+"name": "Agile Methodologies",
+"description": "Agile project management and development practices",
+"rank": 1,
+"growthPercentage": 12.4,
+"userCount": 1200,
+"category": "Methodology",
+"relatedJobTitles": [
+"Product Manager",
+"Scrum Master",
+"Project Manager"
+],
+"courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%225368b0a1-eb22-4cac-809a-6a6cb7c71111%22%2c%22learningSourceId%22%3a%222554aeea-f58b-4c6c-a5fe-9b91f8a967cc%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22SuccessFactors_s4280429%22%7d%7d"
+},
+{
+"skillId": "skill_analytics_009",
+"name": "Product Analytics",
+"description": "Data analysis for product decision making",
+"rank": 2,
+"growthPercentage": 28.9,
+"userCount": 890,
+"category": "Analytics",
+"relatedJobTitles": [
+"Product Manager",
+"Data Analyst",
+"Business Analyst"
+],
+"courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%22398225a8-087f-4039-b2b3-2b445531a504%22%2c%22learningSourceId%22%3a%222554aeea-f58b-4c6c-a5fe-9b91f8a967cc%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22MSLibrary_555439_video%22%7d%7d"
+},
+{
+"skillId": "skill_roadmapping_034",
+"name": "Product Roadmapping",
+"description": "Strategic planning and prioritization of product features",
+"rank": 3,
+"growthPercentage": 22.1,
+"userCount": 780,
+"category": "Strategy",
+"relatedJobTitles": [
+"Product Manager",
+"Product Owner",
+"Strategy Manager"
+],
+"courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%224c72999c-24f5-49ad-bd1d-b005f9ea8a7d%22%2c%22learningSourceId%22%3a%22LinkedIn%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22urn%3ali%3alyndaCourse%3a630598%22%7d%7d"
+},
+{
+"skillId": "skill_userresearch_035",
+"name": "User Research",
+"description": "Methods for understanding user needs and behaviors",
+"rank": 4,
+"growthPercentage": 31.5,
+"userCount": 650,
+"category": "Research",
+"relatedJobTitles": [
+"Product Manager",
+"UX Researcher",
+"Design Researcher"
+],
+"courseLink": "https://learning.cloud.microsoft/training/"
+}
+]
+}
+},
+"tenantData": {
+"microsoft-corp": {
+"tenantId": "microsoft-corp",
+"lastUpdated": "2025-07-17T10:00:00Z",
+"totalCount": 3,
+"skills": [
+{
+"skillId": "skill_cloud_010",
+"name": "Cloud Computing",
+"description": "Cloud computing platforms",
+"rank": 1,
+"growthPercentage": 28.7,
+"userCount": 3450,
+"category": "Cloud & Infrastructure",
+"relatedJobTitles": [
+"Cloud Architect",
+"DevOps Engineer",
+"Software Engineer"
+],
+"courseLink": "https://teams.microsoft.com/l/entity/2e3a628d-6f54-4100-9e7a-f00bc3621a85/MyLearning?context=%7b%22subEntityId%22%3a%7b%22learningObjectId%22%3a%22531f1a66-c453-4919-938d-b285a28cd98b%22%2c%22learningSourceId%22%3a%222554aeea-f58b-4c6c-a5fe-9b91f8a967cc%22%2c%22language%22%3a%22en_us%22%2c%22externalId%22%3a%22MSLibrary_526332_e-audio%22%7d%7d"
+},
             {
               "skillId": "skill_pm_011",
               "name": "Project Management",
